@@ -1,4 +1,3 @@
-# main.py
 from checkmate import checkmate
 
 def main():
